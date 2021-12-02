@@ -1,0 +1,57 @@
+Magnitude  Algo       Time (ms)  RANDOM
+1          Mergesort  0.018
+1          Quicksort  0.004
+-------------------------------
+2          Mergesort  0.145
+2          Quicksort  0.012
+-------------------------------
+3          Mergesort  0.104
+3          Quicksort  0.091
+-------------------------------
+4          Mergesort  1.002
+4          Quicksort  0.749
+-------------------------------
+5          Mergesort  12.530
+5          Quicksort  9.274
+-------------------------------
+6          Mergesort  123.346
+6          Quicksort  90.948
+-------------------------------
+Magnitude  Algo       Time (ms)  ASCENDING
+1          Mergesort  0.000
+1          Quicksort  0.000
+-------------------------------
+2          Mergesort  0.002
+2          Quicksort  0.003
+-------------------------------
+3          Mergesort  0.029
+3          Quicksort  0.033
+-------------------------------
+4          Mergesort  0.302
+4          Quicksort  0.345
+-------------------------------
+5          Mergesort  3.574
+5          Quicksort  3.887
+-------------------------------
+6          Mergesort  41.086
+6          Quicksort  43.335
+-------------------------------
+Magnitude  Algo       Time (ms)  DESCENDING
+1          Mergesort  0.000
+1          Quicksort  0.000
+-------------------------------
+2          Mergesort  0.002
+2          Quicksort  0.003
+-------------------------------
+3          Mergesort  0.024
+3          Quicksort  0.038
+-------------------------------
+4          Mergesort  0.262
+4          Quicksort  0.402
+-------------------------------
+5          Mergesort  2.995
+5          Quicksort  4.424
+-------------------------------
+6          Mergesort  34.718
+6          Quicksort  48.976
+-------------------------------

@@ -1,0 +1,2 @@
+From input.txt
+1 2 3

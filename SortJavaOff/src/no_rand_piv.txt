@@ -1,0 +1,48 @@
+Mergesort analysis for Random numbers
+Magnitude  Time (ms)
+1          0.290950
+2          0.049900
+3          0.314850
+4          1.683100
+5          12.380250
+6          142.401450
+Mergesort analysis for Ascending numbers
+Magnitude  Time (ms)
+1          0.001050
+2          0.003300
+3          0.039500
+4          0.331750
+5          3.997650
+6          49.212550
+Mergesort analysis for Descending numbers
+Magnitude  Time (ms)
+1          0.001250
+2          0.003200
+3          0.030000
+4          0.439600
+5          3.717100
+6          49.767600
+Quicksort analysis for Random numbers
+Magnitude  Time (ms)
+1          0.004850
+2          0.123800
+3          0.299100
+4          1.351300
+5          8.347250
+6          110.262350
+Quicksort analysis for Ascending numbers
+Magnitude  Time (ms)
+1          0.001000
+2          0.020200
+3          1.508050
+4          83.182250
+5          7169.561750
+6          741968.183950
+Quicksort analysis for Descending numbers
+Magnitude  Time (ms)
+1          0.000750
+2          0.005550
+3          0.398550
+4          46.531350
+5          4351.340900
+6          418575.473950

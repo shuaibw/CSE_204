@@ -1,0 +1,57 @@
+Analyzing mergesort
+Statistics for randomly generated numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.060
+4              1.260
+5              16.020
+6              183.860
+
+Statistics for ascending numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.020
+4              0.680
+5              8.020
+6              92.420
+
+Statistics for descending numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.060
+4              0.660
+5              7.760
+6              90.900
+
+*************************
+Analyzing quicksort
+Statistics for randomly generated numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.120
+4              1.580
+5              18.140
+6              216.740
+
+Statistics for ascending numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.080
+4              1.040
+5              10.960
+6              122.000
+
+Statistics for descending numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.060
+4              1.040
+5              11.220
+6              124.200
+

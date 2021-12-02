@@ -1,0 +1,56 @@
+Analyzing mergesort avg over 50 runs/each order of magnitude
+Statistics for randomly generated numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.100
+4              1.280
+5              15.240
+6              184.560
+
+Statistics for ascending numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.060
+4              0.800
+5              7.920
+6              94.780
+
+Statistics for descending numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.040
+4              0.720
+5              8.460
+6              95.580
+
+*************************
+Analyzing quicksort avg over 50 runs/each order of magnitude
+Statistics for randomly generated numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.140
+4              1.540
+5              17.860
+6              207.360
+
+Statistics for ascending numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.080
+4              1.040
+5              11.320
+6              121.800
+
+Statistics for descending numbers
+Magnitude      Time (ms)
+1              0.000
+2              0.000
+3              0.100
+4              1.240
+5              11.400
+6              122.960
